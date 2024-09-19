@@ -1,0 +1,36 @@
+{
+    "ModDefinition": {
+        "author": "suoyukii",
+        "color": "#88DDFF",
+        "description": "Redrew some vanilla panels\n\nAuthor: suoyukii\n\nGithub: https://github.com/suoyukii/ClearerVanillaPanels",
+        "name": "Clearer Vanilla Panels",
+        "system_version": 2
+    },
+    "ModReplacements": {
+        "textures": [
+            "field/mass_check0",
+            "field/mass_check1",
+            "field/mass_check2",
+            "field/mass_check3",
+            "field/mass_warp0",
+            "field/mass_warpmove0",
+            "field/mass_warpmoveL2",
+            "field/mass_bonus0",
+            "field/mass_bonusL2",
+            "field/mass_drop0",
+            "field/mass_dropL2",
+            "field/mass_draw0",
+            "field/mass_drawL2",
+            "field/mass_boss",
+            "field/mass_encount0",
+            "field/mass_encount1",
+            "field/mass_encountL2",
+            "field/mass_damage0",
+            "field/mass_damageL2",
+            "field/mass_heal",
+            "field/mass_healL2",
+            "field/mass_move0",
+            "field/mass_moveL2"
+        ]
+    }
+}
